@@ -1,0 +1,69 @@
+#EXTM3U
+#EXTINF:-1,Latina Televisión
+http://181.224.226.128:5000/play/a03n/index.m3u8
+
+#EXTINF:-1,América Televisión
+http://201.230.15.121:8000/play/americatvhd
+
+#EXTINF:-1,Panamericana Televisión
+http://200.4.244.29:8000/play/a026
+
+#EXTINF:-1,Plus TV Life
+http://201.230.121.85:8000/play/a0l2/index.m3u8
+
+#EXTINF:-1,TV Perú
+http://179.63.6.12:9000/play/a05q
+
+#EXTINF:-1,Canal N
+http://217.26.190.76:8888/play/a09p
+
+#EXTINF:-1,ATV
+http://179.63.6.12:9000/play/a02q
+
+#EXTINF:-1,RPP TV
+http://179.63.6.12:9000/play/a05l
+
+#EXTINF:-1,Willax Televisión
+http://209.45.81.84:8000/play/a038
+
+#EXTINF:-1,Global Televisión
+http://181.224.226.128:5000/play/a01s/index.m3u8
+
+#EXTINF:-1,ATV+
+http://179.63.6.12:9000/play/a01j
+
+#EXTINF:-1,Totalmusic
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,Totalmusic 80s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,Totalmusic 2000s
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,Totalmusic Concerts
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,Totalmusic Dance
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,ENT Channel
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,ENT Family
+https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,Energeek Fan
+https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+#EXTINF:-1,Energeek Retro
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+#EXTINF:-1,Energeek Radio
+https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
+
+#EXTINF:-1,Kanade TV
+https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
+
+#EXTINF:-1,TL+
+https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
