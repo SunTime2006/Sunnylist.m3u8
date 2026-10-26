@@ -1,36 +1,45 @@
 #EXTM3U
 #EXTINF:-1,Latina Televisión
-http://181.224.226.128:5000/play/a03n/index.m3u8
+http://190.93.224.42/LATINA/index.m3u8
+
+#EXTINF:-1,Movistar Deportes
+http://45.186.254.75:8000/play/a0es/index.m3u8
 
 #EXTINF:-1,América Televisión
-http://201.230.15.121:8000/play/americatvhd
+http://190.93.224.42/AMERICA-TV/index.m3u8
 
 #EXTINF:-1,Panamericana Televisión
-http://200.4.244.29:8000/play/a026
+http://45.171.108.253:8888/PANAMERICANA/index.m3u8
 
 #EXTINF:-1,Plus TV Life
-http://201.230.121.85:8000/play/a0l2/index.m3u8
+http://45.186.254.75:8000/play/a0et
 
 #EXTINF:-1,TV Perú
 http://179.63.6.12:9000/play/a05q
 
 #EXTINF:-1,Canal N
-http://217.26.190.76:8888/play/a09p
+http://45.186.254.75:8000/play/a09i
 
 #EXTINF:-1,ATV
-http://179.63.6.12:9000/play/a02q
+http://45.186.254.75:8000/play/a0bf
 
 #EXTINF:-1,RPP TV
-http://179.63.6.12:9000/play/a05l
+http://45.186.254.75:8000/play/a09z
 
 #EXTINF:-1,Willax Televisión
-http://209.45.81.84:8000/play/a038
+http://190.93.224.42/WILLAX/index.m3u8
 
 #EXTINF:-1,Global Televisión
-http://181.224.226.128:5000/play/a01s/index.m3u8
+http://190.93.224.42/GLOBAL/index.m3u8
 
 #EXTINF:-1,ATV+
-http://179.63.6.12:9000/play/a01j
+http://45.171.108.253:8888/ATV/index.m3u8
+
+#EXTINF:-1,L1 MAX
+http://45.186.254.75:8000/play/a0ec/index.m3u8
+
+#EXTINF:-1,ATV+
+http://45.171.108.253:8888/ATV/index.m3u8
 
 #EXTINF:-1,Totalmusic
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
@@ -41,17 +50,26 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/mas
 #EXTINF:-1,Totalmusic 2000s
 https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
 
-#EXTINF:-1,Totalmusic Concerts
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-
-#EXTINF:-1,Totalmusic Dance
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
-
 #EXTINF:-1,ENT Channel
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1,ENT Family
-https://cdn.global.elektamedia.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,ENT Comedy
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,ENT Movies
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,ENT Drama
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,ENT Classic
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,ENT Life
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1,Energeek Fan
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
@@ -62,8 +80,11 @@ https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&Playl
 #EXTINF:-1,Energeek Radio
 https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 
-#EXTINF:-1,Kanade TV
-https://streams.kanade.cl/webtv/kanadeweb/playlist.m3u8?token=deM0kanADeweB
-
 #EXTINF:-1,TL+
 https://cdn.global.elektamedia.com/live/c7eds/TLMasSV/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:-1,TL+ Santa Ana
+https://cdn.40mediagroup.com/live/c7eds/TLMasSV_SantaAna/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,Primired
+https://cdn.kift.live/webtv/Primired/index.m3u8
